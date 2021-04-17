@@ -18,3 +18,14 @@ body {
    */
   background-image: url('./images/bg-pattern.png');
 }
+.country-name{
+  display: flex;
+    justify-content: center;
+}
+.country-container{
+    display: flex;
+    justify-content: center;
+}
+.country-body{
+      margin-right: 40px;
+}
